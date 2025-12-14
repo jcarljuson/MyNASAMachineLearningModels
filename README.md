@@ -20,7 +20,13 @@ These models were trained using processed space telescope data and are intended 
 ## 📂 Repository Structure
 
 
+## 🧪 Model Details
 
+- Input: **Flux / Light Curve data / Space Data**
+- Output: **Exoplanet classification or prediction**
+- Algorithms Used:
+  - Logistic Regression / Random Forest / XGBoost
+---
 
 
 
