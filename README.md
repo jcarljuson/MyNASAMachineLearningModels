@@ -1,3 +1,36 @@
+# NASA SpaceApps Exoplanet Finder Machine Learning Models
+
+This repository contains trained **machine learning models (.pkl)** developed for the **NASA Space Apps Challenge**.
+
+The models are designed to analyze **astronomical flux/light curve data** to assist in **exoplanet detection and classification**.
+
+---
+
+## 📌 Project Overview
+
+- 🛰️ Event: **NASA Space Apps Challenge**
+- 🔭 Domain: **Astronomy / Exoplanet Detection**
+- 🤖 Tech: **Machine Learning**
+- 📁 Model Format: `.pkl` (Pickle)
+
+These models were trained using processed space telescope data and are intended for **research, experimentation, and educational purposes**.
+
+---
+
+## 📂 Repository Structure
+
+
+
+
+
+
+
+
+
+
+
+
+
 I hate these 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣶⣾⣿⣿⣿⣶⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
