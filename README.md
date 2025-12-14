@@ -20,7 +20,26 @@ These models were trained using processed space telescope data and are intended 
 ---
 
 ## 📂 Repository Structure
+├── K2Models/
+│ ├── (pkl files)
+├── TESSModels
+│ └── (pkl files)
+├── datasetsTESS_TOI_KEPLER/
+│ └── (csv files)
+├── keplerModels/
+│ └── (pkl files)
+└── README.md
 
+
+K2Models
+
+TESSModels
+
+datasetsTESS_TOI_KEPLER
+
+keplerModels
+
+README.md
 
 ## 🧪 Model Details
 
