@@ -10,7 +10,7 @@ mybad it's still not organized well
 
 ## 📌 Project Overview
 
-- 🛰️ Event: **NASA Space Apps Challenge**
+- 🛰️ Event: **NASA International Space Apps Challenge**
 - 🔭 Domain: **Astronomy / Exoplanet Detection**
 - 🤖 Tech: **Machine Learning**
 - 📁 Model Format: `.pkl` (Pickle)
@@ -28,7 +28,7 @@ These models were trained using processed space telescope data and are intended 
 - Output: **Exoplanet classification or prediction**
 - Algorithms Used:
   - Logistic Regression / Random Forest / XGBoost
----
+--------------------------------------------------------------------------
 
 
 
@@ -39,7 +39,7 @@ These models were trained using processed space telescope data and are intended 
 
 
 
-I hate these 
+I hate these projects
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣶⣾⣿⣿⣿⣶⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⠛⠛⠉⠉⠉⠉⠛⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
