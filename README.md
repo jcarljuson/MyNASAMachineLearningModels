@@ -6,6 +6,8 @@ The models are designed to analyze **astronomical flux/light curve data** to ass
 
 ---
 
+mybad it's still not organized well
+
 ## 📌 Project Overview
 
 - 🛰️ Event: **NASA Space Apps Challenge**
